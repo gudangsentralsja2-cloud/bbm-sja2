@@ -1,9 +1,8 @@
 {
   "hosting": {
-    "site": "central-warehouse-sja2",
+    "site": "bbm-sja2",
     "public": ".",
     "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
     "rewrites": [{ "source": "**", "destination": "/index.html" }]
   }
 }
-
